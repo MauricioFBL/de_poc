@@ -1,7 +1,29 @@
-# Data analitycs example projects
+# Data analitycs capstone projects
 
 This  is an examle of how to create a normal workflow for
 analytics team.
+
+## Project structure & description
+This is a capstone project so we divide the project in 5 main stages
+the project run on gcp 
+### Stages
+ - Ingestion 
+ - preprocessing & aggregation
+ - modeling & procession
+ - orquestration & warehousing
+ - dashboarding
+
+
+### Stack
+- gcp
+    - iam
+    - bigquery
+    - cloud storage
+    - compute engine
+- python 
+    - spark
+    - dagster
+- power bi 
 
 ## Configuration for the project
 
