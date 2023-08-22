@@ -1,4 +1,4 @@
-# Data analitycs examnple projects
+# Data analitycs example projects
 
 This  is an examle of how to create a normal workflow for
 analytics team.
@@ -19,4 +19,4 @@ python -m venv venv
 venv/Scripts/activate
 pip install -r requirements.txt
 ```
-
+an example of how to implement the first ingestion is in [csv_to_gstorage.py](csv_to_gstorage.py)
