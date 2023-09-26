@@ -1,0 +1,9 @@
+load_from:
+
+  - python_file:
+      relative_path: "analytics_jobs/repositories/repository_spotify.py"
+
+  - python_file:
+      relative_path: "analytics_jobs/repositories/repository_spotify_copy.py"
+
+    
